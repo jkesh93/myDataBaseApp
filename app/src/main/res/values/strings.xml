@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">myDataBaseApp</string>
+    <string name="AddContact">Add Contact</string>
+    <string name="ViewContact">View Contacts</string>
+    <string name="SearchContact">Search Contacts</string>
+    <string name="UpdateContact">Update Contact</string>
+    <string name="DeleteContact">Delete Contact</string>
+    <string name="myAppName">My Contacts App</string>
+    <string name="cName">Contact Name</string>
+    <string name="cNumber">Phone Number</string>
+    <string name="cEmail">Contact E-Mail</string>
+    <string name="save">Save</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Back">Back</string>
+</resources>
